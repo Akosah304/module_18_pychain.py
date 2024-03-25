@@ -2,11 +2,13 @@
 
 The outcomes of a few test transactions are shown here.
 
-![Screenshot](https://github.com/Akosah304/module_18_pychain.py/blob/main/Instructions/Images/Screenshot%202024-03-24%20211715.png)
+![Screenshot](https://github.com/Akosah304/module_18_pychain.py/blob/main/Instructions/Images/Screenshot%202024-03-24%20215205.png)
 
 This additional screenshot of the test transactions displays the remaining data and validation.
 
-![Screenshot](https://github.com/Akosah304/module_18_pychain.py/blob/main/Instructions/Images/Screenshot%202024-03-24%20211554.png)
+![Screenshot](https://github.com/Akosah304/module_18_pychain.py/blob/main/Instructions/Images/Screenshot%202024-03-24%20215116.png)
+
+![Screenshot](https://github.com/Akosah304/module_18_pychain.py/blob/main/Instructions/Images/Screenshot%202024-03-24%20215254.png)
 
 ## Technologies
 
